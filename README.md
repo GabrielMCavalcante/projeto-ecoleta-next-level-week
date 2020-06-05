@@ -22,6 +22,8 @@
   - Axios
   - Cors
   - Celebrate (Integração com Joi)
+- APIs externas
+  - IBGE
 </br>
 
 [Voltar ao topo](#projeto-ecoleta)
@@ -47,5 +49,13 @@
 
 - <p>Tela de detalhes do ponto de coleta selecionado</p>
 <img alt="mobile-contact" src="images/mobile-contact.jpeg" width="300px" height="500px" />
+
+[Voltar ao topo](#projeto-ecoleta)
+
+## Usando a API do IBGE
+
+Esta aplicação utiliza-se da API fornecida pelo Instituto Brasileiro de Geografia e Estatística (IBGE) no cadastro do Estado (UF) e Cidade do estabelecimento de coleta de resíduos.
+
+![api-ibge](images/api-ibge.gif)
 
 [Voltar ao topo](#projeto-ecoleta)
