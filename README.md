@@ -32,20 +32,20 @@
 <br>
 
 - <p>Página da home</p>
-![home-page](img/web-frontpage.jpg)
+![web-homepage](images/web-homepage.png)
 - <p>Página de cadastro</p>
-![register-ong-page](img/web-registerOng.jpg)
+![web-cadastro](images/web-cadastro.gif)
 
 ### Versão Mobile
 <br>
 
 - <p>Tela da home</p>
-<img src="img/mobile-frontpage.jpeg" width="300px" height="500px" />
+<img alt="mobile-home" src="images/mobile-home.jpeg" width="300px" height="500px" />
 
 - <p>Tela do mapa de pontos de coleta</p>
-<img src="img/mobile-detailpage.jpeg" width="300px" height="500px" />
+<img alt="mobile-map" src="images/mobile-map.jpeg" width="300px" height="500px" />
 
 - <p>Tela de detalhes do ponto de coleta selecionado</p>
-<img src="img/mobile-ongcontact.jpeg" width="300px" height="500px" />
+<img alt="mobile-contact" src="images/mobile-contact.jpeg" width="300px" height="500px" />
 
-[Voltar ao topo](#projeto-be-the-hero)
+[Voltar ao topo](#projeto-ecoleta)
