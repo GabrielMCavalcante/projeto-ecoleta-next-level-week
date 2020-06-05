@@ -54,7 +54,7 @@
 
 ## Usando a API do IBGE
 
-Esta aplicação utiliza-se da API fornecida pelo Instituto Brasileiro de Geografia e Estatística (IBGE) no cadastro do Estado (UF) e Cidade do estabelecimento de coleta de resíduos.
+Esta aplicação utiliza-se da API fornecida pelo Instituto Brasileiro de Geografia e Estatística (IBGE) para mostrar, de forma dinâmica, todos os Estados (UF) e Cidades por Estado existentes, assim evitando erros por parte do usuário.
 
 ![api-ibge](images/api-ibge.gif)
 
